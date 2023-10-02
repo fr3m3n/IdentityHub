@@ -18,7 +18,7 @@
 
 ## Introduction
 
-AuthCore is a centralized authentication and authorization microservice built using Spring Security. It provides secure user authentication and authorization functionality that can be easily integrated into other projects as a central identity provider.
+IdentityHub is a centralized authentication and authorization microservice built using Spring Security. It provides secure user authentication and authorization functionality that can be easily integrated into other projects as a central identity provider.
 
 ## Features
 
