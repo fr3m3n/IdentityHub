@@ -45,3 +45,9 @@ Before you begin, ensure you have met the following requirements:
 
    ```bash
    git clone https://github.com/fr3m3n/IdentityHub
+
+
+## Documentation
+
+Enhanced Entity-Relationship Model
+![Enhanced entity-relationship model](docs/relationship_model.drawio.png)
