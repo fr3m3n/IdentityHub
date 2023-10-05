@@ -50,4 +50,4 @@ Before you begin, ensure you have met the following requirements:
 ## Documentation
 
 Enhanced Entity-Relationship Model
-![Enhanced entity-relationship model](docs/relationship_model.drawio.png)
+![Enhanced entity-relationship model](docs/IdentityHub.drawio.png)
