@@ -19,7 +19,7 @@ import java.util.Set;
 @NoArgsConstructor
 @AllArgsConstructor
 @Entity
-@Table(name = "user") // Especifica el nombre de la tabla en la base de datos
+@Table(name = "usr") // Especifica el nombre de la tabla en la base de datos
 public class User {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
